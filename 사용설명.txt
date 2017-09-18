@@ -1,1 +1,3 @@
 # peerblock_list
+peerBlock ip 스파이웨어 각종 스펨 및 해킹 불량 사이트의 ip 목록인 담겨 있습니다.
+확장명을 .p2p 로해서 사용하세요.

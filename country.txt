@@ -1,0 +1,6 @@
+# peerblock_list
+
+차단할 국가, IP 주소 버전 (IPv4 또는 IPv6), 출력 형식을 선택하고 "다운로드"버튼을 누르십시오.
+
+
+http://www.ip2location.com/free/visitor-blocker
